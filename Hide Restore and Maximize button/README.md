@@ -7,6 +7,5 @@ These styles ensure that the specified buttons are no longer visible in the brow
 ## License
 
 This project is licensed under the MIT License.
-```
 
 
