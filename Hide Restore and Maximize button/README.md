@@ -7,6 +7,10 @@ This project provides a simple CSS modification to hide the "Restore Down" and "
 
 These styles ensure that the specified buttons are no longer visible in the browser interface, offering a more minimalist UI.
 
+### Note:
+
+A better Alernative Exists, [Please use this one instead!](https://zen-browser.app/themes/5a007026-0801-4a5d-9740-f17dc1c3ff21)
+
 ## License
 
 This project is licensed under the MIT License.
