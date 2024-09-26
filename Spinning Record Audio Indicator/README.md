@@ -8,3 +8,8 @@
 
 This browser mod adds a small spinning CD icon next to the "PLAYING" audio indicator on active tabs in the Zen Browser. The mod improves the visual indicator for tabs that are currently playing audio by introducing an animated GIF of a spinning music disc.
 
+
+## License
+
+This project is licensed under the MIT License.
+
