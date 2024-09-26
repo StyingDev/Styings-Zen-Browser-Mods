@@ -1,0 +1,29 @@
+/* Add margin to the PLAYING indicator to create space from the page title */
+.tab-icon-sound-label.tab-icon-sound-playing-label {
+  position: relative; /* Allows absolute positioning for the pseudo-element */
+  padding-left: 20px; /* Adjusted padding for the CD icon */
+  margin-left: 15px; /* Increases space between the title and the PLAYING indicator */
+}
+
+/* Add a smaller spinning CD icon before the PLAYING text */
+.tab-icon-sound-label.tab-icon-sound-playing-label::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 15px; /* Icon width */
+  height: 15px; /* Icon height */
+  background-image: url('https://media.tenor.com/Sb0yPHMgNaUAAAAi/music-disc.gif'); /* CD spinning GIF */
+  background-size: cover; /* Ensures the image covers the element */
+  border-radius: 50%; /* Makes the icon circular */
+  transform: translateY(-50%); /* Centers the icon vertically */
+  margin-right: 5px; /* Adds space between the icon and the PLAYING text */
+}
+
+.tab-label-container {
+  height: 2.8em !important;
+}
+
+.tab-label {
+  line-height: 1.9 !important;
+}
