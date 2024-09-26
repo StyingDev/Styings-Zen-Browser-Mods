@@ -9,7 +9,7 @@ These styles ensure that the specified buttons are no longer visible in the brow
 
 ### Note:
 
-A better Alernative Exists, [Please use this one instead!](https://zen-browser.app/themes/5a007026-0801-4a5d-9740-f17dc1c3ff21)
+A better Alternative Exists, [Please use this one instead!](https://zen-browser.app/themes/5a007026-0801-4a5d-9740-f17dc1c3ff21)
 
 ## License
 
