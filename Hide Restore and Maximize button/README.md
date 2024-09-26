@@ -1,3 +1,6 @@
+![Image](https://raw.githubusercontent.com/StyingDev/Styings-Zen-Browser-Mods/main/Hide%20Restore%20and%20Maximize%20button/Image.png)
+
+
 # Zen Browser Toolbar Button Hider
 
 This project provides a simple CSS modification to hide the "Restore Down" and "Maximize" buttons in the Zen Browser.
